@@ -13,7 +13,7 @@ export default function About() {
                 The database is regularly updated with new releases, ensuring you always
                 have access to the latest films. You can search for movie titles using keywords
                 and you can find trending and top-rated movies, making it easy to find
-                exactly what you're looking for.
+                exactly what you&apos;re looking for.
             </p>
 
             <p>
