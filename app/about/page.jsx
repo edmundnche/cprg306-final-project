@@ -3,7 +3,7 @@ export default function About() {
         <div className='max-w-6xl mx-auto p-3 space-y-4'>
             <h1 className='text-2xl font-medium text-amber-600'>About</h1>
             <p>
-                Welcome to the CPMDb website! I am passionate movie enthusiast
+                Welcome to the CPMDb website! I am a passionate movie enthusiast
                 and this is a class project to create a one-stop destination for
                 persons with movie-related needs.
             </p>
