@@ -11,6 +11,7 @@ export default function Card({ result }) {
                     width={500}
                     height={300}
                     className='rounded-t-md group-hover:opacity-85 transition-opacity duration-300'
+                    alt={`${result.title || result.name} poster`}
                 />
                 <div className='p-5'>
                     <p className='line-clamp-3 text-base text-gray-200 font-medium leading-tight'>{result.overview}</p>
